@@ -1,5 +1,3 @@
-import data.TrxModel
-
 fun main() {
     val transaction = Transaction()
     var inputData: Pair<String?, Double?>
