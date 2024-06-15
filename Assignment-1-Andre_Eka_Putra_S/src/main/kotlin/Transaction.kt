@@ -65,7 +65,6 @@ class Transaction{
 
     /**
      *   Return The Current Balance or Summary of The Transaction
-     *   Null If The List is Empty
      * */
     private fun getCurrentBalance(): Double {
         var totalBalance = 0.0

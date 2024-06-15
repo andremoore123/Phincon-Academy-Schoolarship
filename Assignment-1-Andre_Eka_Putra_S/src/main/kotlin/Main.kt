@@ -50,7 +50,7 @@ fun receiveTrxData(): Pair<String?, Double?> {
     return name to amount
 }
 fun menu(): Int? {
-    println("----------- Finance Manager -----------")
+    println("----------- Budget Tracker -----------")
     println("1. Add Your Income")
     println("2. Add Your Expense")
     println("3. Your Balance Summary")
