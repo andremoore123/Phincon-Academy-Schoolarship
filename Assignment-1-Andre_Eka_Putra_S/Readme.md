@@ -12,21 +12,22 @@ Budget Tracker is a simple command-line application built with Kotlin. It helps 
 
 # Application Flow
 
-![App Screenshot](https://drive.google.com/uc?id=1KQmiHiOStoLuCT4bpWox8BHm80fDQerf)
-
+<img src="https://drive.google.com/uc?id=1KQmiHiOStoLuCT4bpWox8BHm80fDQerf" width="600" height="350" />
 
 ## Tech Stack
 
-![App Screenshot](https://drive.google.com/uc?id=1TR4t6LEQEtzeEolU1kxEjqoVZl7ZhHyW)
+<img src="https://drive.google.com/uc?id=1TR4t6LEQEtzeEolU1kxEjqoVZl7ZhHyW" width="600" height="350" />
+
 
 ## Application Snapshot
 
 **Application's Menu Preview**
 
-![Menu Screenshot](https://drive.google.com/uc?id=11jG-EtK7_MoXAHQ_1-LGpDtRrHVd5U2t)
+<img src="https://drive.google.com/uc?id=11jG-EtK7_MoXAHQ_1-LGpDtRrHVd5U2t" width="600" height="350" />
 
 **Main Feature Preview**
-![Main Feature Screenshot](https://drive.google.com/uc?id=1LtD_YwpfhfjzHrcjXSiEsvGmshfHHHBv)
+
+<img src="https://drive.google.com/uc?id=1LtD_YwpfhfjzHrcjXSiEsvGmshfHHHBv" width="600" height="350" />
 
 Summary **will also show a little note** if the user is in surplus or minus condition.
 
